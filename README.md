@@ -6,4 +6,8 @@ Required libraries: `SDL2, GLEW, GLM`.
 
 Controls:  
 `WASD` for movement;
-`QE` for camera zoom in/out.
+`QE` for camera zoom in/out;
+Mouse left button for placing cells;
+Mouse right button for removing cells.
+
+A bit buggy and poor coded, so don't expect much of it.
