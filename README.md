@@ -5,9 +5,9 @@ Field size can be changed in stateplaying.h by changing `worldXSize` and `worldY
 Required libraries: `SDL2, GLEW, GLM`.  
 
 Controls:  
-`WASD` for movement;
-`QE` for camera zoom in/out;
-Mouse left button for placing cells;
-Mouse right button for removing cells.
+`WASD` for movement;  
+`QE` for camera zoom in/out;  
+Mouse left button for placing cells;  
+Mouse right button for removing cells.  
 
 A bit buggy and poor coded, so don't expect much of it.
